@@ -1,8 +1,6 @@
-# 🌍 LingoBuddy — Language Learning App
+# LingoBuddy — Language Learning App
 
 A fully interactive language learning app built with React. Learn vocabulary, grammar, and phrases in 7 languages with flashcards, quizzes, and progress tracking.
-
-## 🚀 Getting Started
 
 ### Prerequisites
 - Node.js v16+ installed → https://nodejs.org
@@ -61,11 +59,11 @@ lingobuddy/
 | English  | 🇬🇧  |
 | Turkish  | 🇹🇷  |
 
-## ✨ Features
+##  Features
 
-- 📚 **Lessons** — Vocabulary, Grammar, Phrases with example sentences
-- 🃏 **Flashcards** — 3D flip animation, navigate word by word
-- 🎯 **Quiz** — 8-question MCQ with live score tracking
-- 📊 **Dashboard** — Progress per language, streak, quiz history
+-  **Lessons** — Vocabulary, Grammar, Phrases with example sentences
+- **Flashcards** — 3D flip animation, navigate word by word
+-  **Quiz** — 8-question MCQ with live score tracking
+- **Dashboard** — Progress per language, streak, quiz history
 - 💾 **Local Storage** — All progress auto-saved in browser
 
